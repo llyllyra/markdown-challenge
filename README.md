@@ -4,5 +4,8 @@
 <table>
     <tr>
         <td> Birthday
-        </td> 05/06
+        </td> 
+        <td>05/06
+        </td>
     </tr>
+</table>
