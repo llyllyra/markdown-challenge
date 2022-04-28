@@ -23,8 +23,9 @@
     <tr>
         <td>Pinneapple on pizza
         </td>
-        <td>    - [x]yes
-                - []no
+        <td>    :heavy_check_mark:  yes
+                \n
+                :white_check_mark: no
         </td>
     </tr>
 </table>
