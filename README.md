@@ -1,7 +1,9 @@
 # Marlene Bouvard #
 
 >"La chose la plus difficile en ce monde est d'y vivre"
-  | 
+
+
+About  | me
 --- | ---
 Birthday | 5/06
 Favorite color | Purple
