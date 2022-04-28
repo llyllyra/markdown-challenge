@@ -6,7 +6,7 @@
 
 ###### "Me, in one sentence" #######
 
-| About  | me |
+|  | |
 | --- | --- |
 | Birthday | 5/06 |
 | Favorite color | Purple |
@@ -31,5 +31,5 @@ No idea
 
 No idea
 
-<<  [previous](https://github.com/SemihBk) ||  Marlene Bouvard  || [next](https://github.com/louiscollard) >>
+<<  [previous](https://github.com/SemihBk/markdown-challenge )||  Marlene Bouvard  || [next](hhttps://github.com/louiscollard/markdown-challenge) >>
 
