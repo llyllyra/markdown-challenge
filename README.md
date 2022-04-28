@@ -24,9 +24,13 @@
         <td>Pinneapple on pizza
         </td>
         <td> 
-            - [x] Yes
-            - [ ] No
+            [x] Yes
+            [ ] No
         </td> 
     </tr>
 </table>
 #### Hobbies ####
+<ul>
+    <li>test
+    </li>
+</ul>
