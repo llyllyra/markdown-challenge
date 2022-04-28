@@ -1,36 +1,26 @@
 # Marlene Bouvard #
 
 >"La chose la plus difficile en ce monde est d'y vivre"
-<table>
-    <tr>
-        <td> Birthday
-        </td> 
-        <td>05/06
-        </td>
-    </tr>
-    <tr>
-        <td> Favorite color:
-        </td> 
-        <td>Purple
-        </td>
-    </tr>
-    <tr>
-        <td> Favorite food: 
-        </td> 
-        <td> Chiken red curry
-        </td>
-    </tr>
-    <tr>
-        <td>Pinneapple on pizza
-        </td>
-        <td> 
-            [x] Yes
-            [ ] No
-        </td> 
-    </tr>
-</table>
+
+
+Birthday | 5/06
+--- | ---
+Favorite color | Purple
+Favorite food | red chicken curry
+Pinneapple on pizza |  &#9745; Yes &#9744; No
+
 #### Hobbies ####
-<ul>
-    <li>test
-    </li>
-</ul>
+
+* Read
+* Gamming
+
+#### You can always count on me when... ####
+
+No idea
+
+#### A funny story  ####
+
+No idea
+
+<<  [previous](https://github.com/SemihBk) ||  Marlene Bouvard  || [next](your-project-name/tree/master/your-subfolder) >>
+
