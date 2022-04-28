@@ -23,10 +23,10 @@
     <tr>
         <td>Pinneapple on pizza
         </td>
-        <td>    :heavy_check_mark:  yes
-                \n
-                :white_check_mark: no
-        </td>
+        <td> 
+            - [x] Yes
+            - [ ] No
+        </td> 
     </tr>
 </table>
 #### Hobbies ####
