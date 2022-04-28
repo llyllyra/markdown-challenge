@@ -8,4 +8,24 @@
         <td>05/06
         </td>
     </tr>
+    <tr>
+        <td> Favorite color:
+        </td> 
+        <td>Purple
+        </td>
+    </tr>
+    <tr>
+        <td> Favorite food: 
+        </td> 
+        <td> Chiken red curry
+        </td>
+    </tr>
+    <tr>
+        <td>Pinneapple on pizza
+        </td>
+        <td>    - [x]yes
+                - []no
+        </td>
+    </tr>
 </table>
+#### Hobbies ####
