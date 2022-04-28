@@ -1,27 +1,35 @@
 # Marlene Bouvard #
 
->"La chose la plus difficile en ce monde est d'y vivre"
+>*"La chose la plus difficile en ce monde est d'y vivre"*
 
+![This is an image]()
 
-About  | me
---- | ---
-Birthday | 5/06
-Favorite color | Purple
-Favorite food | red chicken curry
-Pinneapple on pizza |  &#9745; Yes &#9744; No
+###### "Me, in one sentence" #######
 
-#### Hobbies ####
+| About  | me |
+| --- | --- |
+| Birthday | 5/06 |
+| Favorite color | Purple |
+| Favorite food | red chicken curry |
+| Pinneapple on pizza |  &#9745; Yes &#9744; No |
 
-* Read
+###### Hobbies ######
+
+* Reading
+  * Fantasy
+  * Horror
 * Gamming
+  * Simulator
+  * Horror
+  * Final Fantasy 14 online
 
-#### You can always count on me when... ####
+###### You can always count on me when... ######
 
 No idea
 
-#### A funny story  ####
+###### A funny story  ######
 
 No idea
 
-<<  [previous](https://github.com/SemihBk) ||  Marlene Bouvard  || [next](your-project-name/tree/master/your-subfolder) >>
+<<  [previous](https://github.com/SemihBk) ||  Marlene Bouvard  || [next](https://github.com/louiscollard) >>
 
