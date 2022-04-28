@@ -4,16 +4,18 @@
 
 ![This is an image]()
 
-###### "Me, in one sentence" #######
+***!Attention à rajouter l'image de mon pc perso***
+
+## "Me, in one sentence"
 
 |  | |
 | --- | --- |
-| Birthday | 5/06 |
+| Birthday | 05/06 |
 | Favorite color | Purple |
 | Favorite food | red chicken curry |
 | Pinneapple on pizza |  &#9745; Yes &#9744; No |
 
-###### Hobbies ######
+## Hobbies
 
 * Reading
   * Fantasy
@@ -23,13 +25,13 @@
   * Horror
   * Final Fantasy 14 online
 
-###### You can always count on me when... ######
+## You can always count on me when... 
 
 No idea
 
-###### A funny story  ######
+## A funny story
 
 No idea
 
-<<  [previous](https://github.com/SemihBk/markdown-challenge)||  Marlene Bouvard  || [next](https://github.com/louiscollard/markdown-challenge) >>
+<<  [previous](https://github.com/SemihBk/markdown-challenge) ||  Marlene Bouvard  || [next](https://github.com/louiscollard/markdown-challenge) >>
 
